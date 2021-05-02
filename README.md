@@ -1,0 +1,2 @@
+# nsw-case-law-data
+This is a large web scraping and data cleaning project that is attempting to build a public database of New South Wales case law.The project is very far from complete and so the database shouldn't be used for any serious data analysis. However, there is a many to many catchword table that is fully functional and will be the basis of some more powerful features; the catchwords are often shorthand for legal issues and already it allows us to make some useful insights. 
